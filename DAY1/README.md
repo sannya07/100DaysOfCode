@@ -1,0 +1,3 @@
+-> started hashing in dsa (java)
+-> revised html basic semantic tags
+-> revised basics01 of python
